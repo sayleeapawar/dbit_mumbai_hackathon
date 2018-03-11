@@ -36,6 +36,9 @@ To use sports rectification software:
  
 Authors:
 Himanshu Sen
+
 Aditi Sharma
+
 Saylee Pawar
+
 Sumesh Shetty 
