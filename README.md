@@ -35,6 +35,7 @@ To use sports rectification software:
 3.	Enter the user id and perform the action in front of camera, wait for the system to rectify the action and give the details about proper action to be performed.
  
 Authors:
+
 Himanshu Sen
 
 Aditi Sharma
